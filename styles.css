@@ -44,9 +44,11 @@ h3:hover{
 }
 p:hover{
     font-size:17px;
+    cursor:pointer;
 }
 h4:hover{
     font-size:20px;
+    cursor:pointer;
 }
 /*
 Stretch goals:
