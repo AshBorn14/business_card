@@ -36,7 +36,8 @@ body {
 }
 
 .info{
-vertical-align:center;
+padding-bottom:auto;
+padding-top:auto;
 }
     
 .border-blue {
