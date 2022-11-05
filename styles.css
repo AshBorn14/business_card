@@ -35,7 +35,9 @@ body {
     box-shadow: 10px 10px 10px #283B67;
 }
 
-
+.info{
+vertical-align:center;
+    
 .border-blue {
     border: 1px dotted blue;
 }
