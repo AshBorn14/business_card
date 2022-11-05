@@ -17,8 +17,6 @@ body {
 .card {
     width: 400px;
     margin: 0 auto;
-    margin-bottom:auto;
-margin-top:auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
@@ -37,10 +35,6 @@ margin-top:auto;
     box-shadow: 10px 10px 10px #283B67;
 }
 
-.info{
-margin-bottom:auto;
-margin-top:auto;
-}
     
 .border-blue {
     border: 1px dotted blue;
